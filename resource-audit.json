@@ -4,7 +4,7 @@
   "seedRecords": 0,
   "seedAttachments": 0,
   "programFiles": 443,
-  "programBytes": 149123769,
+  "programBytes": 149123742,
   "files": [
     {
       "file": "assets/app.css",
@@ -2218,8 +2218,8 @@
     },
     {
       "file": "sw.js",
-      "bytes": 2859,
-      "sha256": "ee0098112d480a926e180bd1df590e2508cbb69f1913e225bcbc03c90dcd5f47"
+      "bytes": 2832,
+      "sha256": "fc66b79be9826ac76af352a6a8025cb5e73568f377c98d045cdd9f30a83b4a6f"
     }
   ]
 }
